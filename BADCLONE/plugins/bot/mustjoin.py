@@ -6,7 +6,7 @@ from BADCLONE import app
 
 #--------------------------
 
-MUST_JOIN = "PBX_UPDATE"
+MUST_JOIN = "BOT_X_SUPPORT"
 #------------------------
 
 IMG = 'https://files.catbox.moe/b3gckr.jpg'
